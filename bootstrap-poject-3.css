@@ -1,0 +1,103 @@
+/* naver style start */
+.logo-img{
+    width: 50px;
+    height: auto;
+}
+#searchBox{
+    border-radius: 55px;
+    padding: 5px 10px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.5) ,
+                 -6px -6px 10px -1px rgba(255, 255, 255, 0.5);         
+}
+#icon{
+    cursor: pointer;
+}
+input{
+    font-size: 10px;
+    width: 100px;
+    border:none;
+    padding: 4% 10%;
+    background: transparent;
+    outline: none;
+    transition: 2s;
+}
+.navber-style{
+    background: rgba(0, 0, 0, 0.2);
+    padding: 5px 10px;
+}
+ .dropdown-style{
+    background: rgba(0, 0, 0, 0.2);
+}
+
+/* navber style end */
+/* slider start */
+#carouselExampleCaptions{
+    background: gray;
+}
+.img-style{
+    height:400px;
+    width: auto;
+}
+.bg-style-1{
+    background: linear-gradient(150deg,#ffccff,#ff66ff);
+}
+.bg-style-2{
+    background: linear-gradient(150deg,#ddccff,#884dff);
+}
+.bg-style-3{
+    background: linear-gradient(150deg,#99d6ff,#33adff);
+}
+/* slider end */
+/* produtes items button css start  */
+.img-pro-style{
+    width: auto;
+    height: 50px;
+}
+#img-pro-style{
+    width: 70px;
+    height: auto;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    transform: rotate(-20deg);
+}
+/* produtes items button css style end  */
+/* products card css style start */ 
+#shoes-card-style{
+    transform: rotate(-20deg);
+    margin-top: 5%;
+    padding-bottom: 10px;
+}
+#bag-card-style{
+    margin-left: 15%;
+    width: auto;
+    height: 160px;
+    padding-bottom: 10px;
+}
+/* products card css style end */
+/* footer subscribes input start */
+.input-style{
+    margin-top: 20px;
+    width: 30%;
+    padding: 4px 10px;
+    background: #fff;
+    border-bottom-left-radius: 16px;
+    border-top-left-radius: 16px;
+    border: 2px solid crimson;
+    outline: none;
+}
+
+.sub-btn{
+    margin-top: 20px;
+    border: 2px solid crimson;
+    color: #fff;
+    background: none;
+    border-bottom-right-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.sub-btn:hover{
+    background: crimson;
+}
+/* footer subscribes input start */
